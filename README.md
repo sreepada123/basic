@@ -1,2 +1,2 @@
 # basic
-basics
+This folder contains a program introduction
